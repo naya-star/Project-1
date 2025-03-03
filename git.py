@@ -1,1 +1,1 @@
-print:("we are on a blessed monday")
+print("we are on a blessed monday")
